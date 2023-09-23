@@ -1,0 +1,19 @@
+# Ignora archivos de configuración específicos
+config.js
+
+# Ignora directorios generados automáticamente
+node_modules/
+dist/
+coverage/
+
+# Ignora archivos de registro y respaldos
+*.log
+*.bak
+
+# Ignora archivos de entorno local
+.env
+
+# Ignora archivos de compilación y generados por IDEs
+.idea/
+.vscode/
+*.iml
